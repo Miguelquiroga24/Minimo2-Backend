@@ -1,5 +1,5 @@
 package edu.upc.dsa.services;
-
+//TiendaService.java
 import edu.upc.dsa.config.IniciarDatos;
 import edu.upc.dsa.manager.TiendaManager;
 import edu.upc.dsa.manager.TiendaManagerImpl;

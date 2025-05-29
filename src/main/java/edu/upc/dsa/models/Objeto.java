@@ -1,5 +1,5 @@
 package edu.upc.dsa.models;
-
+//Objeto
 import edu.upc.dsa.util.RandomUtils;
 
 public class Objeto {

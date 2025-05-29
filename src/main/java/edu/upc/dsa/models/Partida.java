@@ -1,5 +1,5 @@
 package edu.upc.dsa.models;
-
+//Partida
 import edu.upc.dsa.util.RandomUtils;
 
 import java.util.ArrayList;
